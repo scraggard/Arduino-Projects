@@ -1,0 +1,3 @@
+Couldn't get it to work in the first time.
+Redid the circuit to see if it was the connections but the issues were the same
+Looked at the code and realized that the switch cases were supposed to be in the if conditions; project works after correction.
